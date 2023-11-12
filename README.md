@@ -36,8 +36,7 @@ Note: This description and these examples have issues, which will be corrected. 
     | Investopedia | Full Name  | cco:Person, cco:designated_by, cco:PersonName, cco:has_value |
 
 4. Complete the process until all the attributes have a corresponding representation. 
-   
-For reference, view the mydata.org [mapping](https://github.com/I-AM-project/my-data-ontology/blob/master/dev/mapping-mydata_org-mdo.csv)
+
 
 
 ##
