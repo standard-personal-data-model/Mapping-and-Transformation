@@ -11,7 +11,7 @@ Note: This description and these examples have issues, which will be corrected. 
 
 ## Examples of items in Diagram above can be found:
 - [Instance Data](my-data-org-source-data.csv)
-- [Mapping File](https://github.com/I-AM-project/my-data-ontology/blob/master/dev/mapping-mydata_org-mdo.csv)
+- [Mapping File](mapping-mydata_org-mdo.csv)
 - [Transformation Script](dynamicTransformationScript.py)
 ## How Vendors can Map their Data Models to target ontology
 1. Start with your data source and data model (if available) and select the attributes of interest to your users.
