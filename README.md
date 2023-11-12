@@ -35,7 +35,10 @@ Note: This description and these examples have issues, which will be corrected. 
     | ------------ | ---------- | ----------------------------------------------------------------- |
     | Investopedia | Full Name  | cco:Person, cco:designated_by, cco:PersonName, cco:has_value |
 
-4. Complete the process until all the attributes have a corresponding representation. 
+4. Complete the process until all the attributes have a corresponding representation.
+
+   ## Creating Transformation Script (details coming soon)
+   See example at - [Transformation Script](dynamicTransformationScript.py)
 
 
 
