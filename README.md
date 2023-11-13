@@ -1,5 +1,5 @@
 # Mapping and Transformation using PDM-Glossary (and its Ontologies)
-> This is guidance on how a disparate data source is mapped to the underlying ontologies of PDM-Glossary, to enable its disparate data to be transformed into data conforming to those ontologies.  It can reversed. This will enable Data Operators to map to only one standard model to offer their users portability to any other Operator (who has also mapped to the same standard). It offers this same benefits to vendors seeking to share data with users as part of a sale, and apps that can run on this standard data.  
+This is guidance on how a disparate data source is mapped to the underlying ontologies of PDM-Glossary, to enable its disparate data to be transformed into data conforming to those ontologies.  It can reversed. This will enable Data Operators to map to only one standard model to offer their users portability to any other Operator (who has also mapped to the same standard). It offers this same benefits to vendors seeking to share data with users as part of a sale, and apps that can run on this standard data.  
 
 Note: This description and these examples have issues, which will be corrected. For example, it uses the old MyOntology, which has been replaced by IEEE P3195.1.2 Person Ontology.  
 
